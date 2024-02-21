@@ -1,2 +1,2 @@
 # C_programing
-Project related to c language of my coding journey in college 
+## Project related to c language console program of my coding journey in college 
