@@ -3,12 +3,12 @@
 This is an examination system implemented in C programming language, designed to facilitate the management of tests, student accounts, and results. The system includes functionality for both students and teachers, allowing teachers to create tests and students to view and attempt them. After completing the test, students can view their results.
 
 login details : -
-for admin login
-username : admin
+for admin login <br>
+username : admin ,
 password : admin@123
 
-for candidate login
-email : guest@gmail.com 
+for candidate login<br>
+email : guest@gmail.com ,
 password : guest
 
 ## Features
