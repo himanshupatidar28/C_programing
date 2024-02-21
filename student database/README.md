@@ -20,17 +20,13 @@ This project is a student database management system implemented in C. It allows
 
 ## File Structure
 
-- `student_database.c`: The main source code file containing the implementation of the student database management system.
-- `students.dat`: A binary file used to store student records. It contains serialized student structures.
+- `main.c`: The main source code file containing the implementation of the student database management system.
+- `data.txt`: A binary file used to store student records. It contains serialized student structures.
 - `README.md`: The README file providing information about the project.
 
 ## Contribution
 
 Contributions to improve the project, add new features, or fix bugs are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal or commercial purposes.
 
 ## Disclaimer
 
